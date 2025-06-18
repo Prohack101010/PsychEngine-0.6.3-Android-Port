@@ -7,3 +7,5 @@ mallEvil
 school
 schoolEvil
 tank
+theShift
+theManifest
