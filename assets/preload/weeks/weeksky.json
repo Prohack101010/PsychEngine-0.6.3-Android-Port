@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Wife Forever",
+			"sky",
+			[
+				156,
+				110,
+				204
+			]
+		],
+		[
+			"Sky",
+			"sky",
+			[
+				156,
+				110,
+				204
+			]
+		],
+		[
+			"Manifest",
+			"sky-mad",
+			[
+				40,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"sky",
+		"bf",
+		"gf"
+	],
+	"storyName": "sky by @bfswifeforever",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
